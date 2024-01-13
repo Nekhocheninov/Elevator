@@ -11,7 +11,11 @@ Implementing elevator logic using decision tables.
     ```
     git clone https://github.com/Nekhocheninov/Elevator.git
     ```
-2. Build project.
+2. Use [*.NET SDK*](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks) for building project:
+   ```
+   dotnet build
+   ```
+3. Run the *СИМПР-WINDOWS*, open the *Elevator.sln* file and specify the external executable module of the project.
 
 ## Sample
 
