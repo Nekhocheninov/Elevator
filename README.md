@@ -19,3 +19,4 @@ Implementing elevator logic using decision tables.
 
 ## Sample
 
+<img src="https://github.com/Nekhocheninov/Elevator/blob/main/Sample.gif" width="500">
