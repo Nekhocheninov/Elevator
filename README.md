@@ -1,6 +1,6 @@
 # Elevator in C#
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Nekhocheninov/Elevator/blob/main/LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Nekhocheninov/Elevator/blob/main/LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nekhocheninov/Elevator)
 
 Implementing elevator logic using decision tables. 
